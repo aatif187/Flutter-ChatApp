@@ -1,16 +1,24 @@
-# chat_app
+# Chat_App
 
-A new Flutter project.
+A Real-Time Chatting Mobile Application. Easily search any user and chat. SignUp amd SignIn smoothly.
 
-## Getting Started
+## Features-
+- Real-Time Chatting
+- Searching any User
+- User Authentication (sign Up, Sign In)
 
-This project is a starting point for a Flutter application.
+## Techs/Frameworks used-
+- Flutter
+- FireBase
+- Dart (language)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Snapshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![WhatsApp Image 2021-11-07 at 11 07 17 PM](https://user-images.githubusercontent.com/52147606/140655946-3124793d-a73b-4d38-87c0-46dcc77b44e7.jpeg)
+![WhatsApp Image 2021-11-07 at 11 05 54 PM (2)](https://user-images.githubusercontent.com/52147606/140656003-da5c4593-534a-4513-b134-4adc5b3c7df0.jpeg)
+![WhatsApp Image 2021-11-07 at 11 05 54 PM (1)](https://user-images.githubusercontent.com/52147606/140656004-a5f43172-4520-4291-aaa1-0bc918df7e71.jpeg)
+![WhatsApp Image 2021-11-07 at 11 05 54 PM](https://user-images.githubusercontent.com/52147606/140656006-a2f3222c-da41-4af8-ae17-507bd4cdfef8.jpeg)
+![WhatsApp Image 2021-11-07 at 11 05 54 PM (4)](https://user-images.githubusercontent.com/52147606/140656007-1ba9431b-822d-449a-aa7c-329961644e44.jpeg)
+![WhatsApp Image 2021-11-07 at 11 05 54 PM (3)](https://user-images.githubusercontent.com/52147606/140656008-1f0fd2db-2bb5-45fe-9d0a-286842f793f3.jpeg)
