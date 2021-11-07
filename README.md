@@ -1,6 +1,6 @@
 # Chat_App
 
-A Real-Time Chatting Mobile Application. Easily search any user and chat. SignUp amd SignIn smoothly.
+A Real-Time Chat Mobile Application. Easily search any user and chat. SignUp and SignIn smoothly.
 
 ## Features-
 - Real-Time Chatting
